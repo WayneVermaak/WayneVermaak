@@ -70,9 +70,9 @@ Impact without noise.
 
 ---
 
-I don’t build projects.  
-I build infrastructure for other products to stand on.
-
-Silent.  
-Strong.  
+I build projects in the past, in the present, and for the future.
+From a time before AI and ChatGPT, when every workflow, every email, every line of code was deliberate, skillful, and as essential as core functions and classes.
+Silent.
+Strong.
 Enduring.
+Unstoppable.
